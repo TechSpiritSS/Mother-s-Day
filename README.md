@@ -1,1 +1,1 @@
-Give a Mother's Day gift to your Mom using Pythhon
+Give a Mother's Day gift to your Mom using Python
